@@ -1,0 +1,13 @@
+C:\Users\Huy Le\source\repos\HWDay13_13a\HWDay13_13a\bin\Debug\netcoreapp3.1\HWDay13_13a.exe
+C:\Users\Huy Le\source\repos\HWDay13_13a\HWDay13_13a\bin\Debug\netcoreapp3.1\HWDay13_13a.deps.json
+C:\Users\Huy Le\source\repos\HWDay13_13a\HWDay13_13a\bin\Debug\netcoreapp3.1\HWDay13_13a.runtimeconfig.json
+C:\Users\Huy Le\source\repos\HWDay13_13a\HWDay13_13a\bin\Debug\netcoreapp3.1\HWDay13_13a.runtimeconfig.dev.json
+C:\Users\Huy Le\source\repos\HWDay13_13a\HWDay13_13a\bin\Debug\netcoreapp3.1\HWDay13_13a.dll
+C:\Users\Huy Le\source\repos\HWDay13_13a\HWDay13_13a\bin\Debug\netcoreapp3.1\HWDay13_13a.pdb
+C:\Users\Huy Le\source\repos\HWDay13_13a\HWDay13_13a\obj\Debug\netcoreapp3.1\HWDay13_13a.csprojAssemblyReference.cache
+C:\Users\Huy Le\source\repos\HWDay13_13a\HWDay13_13a\obj\Debug\netcoreapp3.1\HWDay13_13a.AssemblyInfoInputs.cache
+C:\Users\Huy Le\source\repos\HWDay13_13a\HWDay13_13a\obj\Debug\netcoreapp3.1\HWDay13_13a.AssemblyInfo.cs
+C:\Users\Huy Le\source\repos\HWDay13_13a\HWDay13_13a\obj\Debug\netcoreapp3.1\HWDay13_13a.csproj.CoreCompileInputs.cache
+C:\Users\Huy Le\source\repos\HWDay13_13a\HWDay13_13a\obj\Debug\netcoreapp3.1\HWDay13_13a.dll
+C:\Users\Huy Le\source\repos\HWDay13_13a\HWDay13_13a\obj\Debug\netcoreapp3.1\HWDay13_13a.pdb
+C:\Users\Huy Le\source\repos\HWDay13_13a\HWDay13_13a\obj\Debug\netcoreapp3.1\HWDay13_13a.genruntimeconfig.cache
